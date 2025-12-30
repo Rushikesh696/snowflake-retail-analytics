@@ -1,1 +1,0 @@
-# snowflake-retail-analytics
